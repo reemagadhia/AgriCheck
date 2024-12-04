@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "AgriCheck",
+    "slug": "AgriCheck",
+    "plugins": [
+      "expo-router"
+    ],
+    "android": {
+      "package": "com.anonymous.clerkApp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.clerkApp"
+    }
+  }
+}
